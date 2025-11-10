@@ -1,14 +1,16 @@
 ---
 title: "A few of my favorite things"
-author: "Alex Hurtado Desaulniers"
+author: "Kelby MK Palmer"
 output: html_notebook
 ---
 
 Unordered List:
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+ - Music: specifically through vinyls or wired headphones!
+ - Plants and paintings
+ - Calling my mom
+ - Writing 
+ - Making UGC content
+ - Thrifting (and shopping in general)
 
-🍴
+🌷
